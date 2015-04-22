@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="h2-1.4.186">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/LIB/h2-1.4.186.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/LIB/ormlite-core-4.49-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/LIB/ormlite-jdbc-4.49-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
